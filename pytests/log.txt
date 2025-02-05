@@ -6,3 +6,58 @@ nohup: ignoring input
 [2025-02-05 12:14:36 +0000] [42804] [INFO] Booting worker with pid: 42804
 [2025-02-05 12:14:36 +0000] [42805] [INFO] Booting worker with pid: 42805
 [2025-02-05 12:14:36 +0000] [42806] [INFO] Booting worker with pid: 42806
+[2025-02-05 12:51:29 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:42804)
+[2025-02-05 12:58:26 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:42806)
+[2025-02-05 12:57:58 +0000] [42804] [INFO] Worker exiting (pid: 42804)
+[2025-02-05 13:01:14 +0000] [42806] [INFO] Worker exiting (pid: 42806)
+[2025-02-05 13:01:14 +0000] [42802] [ERROR] Worker (pid:42804) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 13:01:15 +0000] [42802] [ERROR] Worker (pid:42806) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 13:01:16 +0000] [51823] [INFO] Booting worker with pid: 51823
+[2025-02-05 13:01:16 +0000] [51824] [INFO] Booting worker with pid: 51824
+[2025-02-05 13:03:26 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:42805)
+[2025-02-05 13:03:58 +0000] [42802] [ERROR] Worker (pid:42805) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 13:03:59 +0000] [52688] [INFO] Booting worker with pid: 52688
+[2025-02-05 13:11:17 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:51823)
+[2025-02-05 13:13:58 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:51824)
+[2025-02-05 13:14:51 +0000] [51824] [INFO] Worker exiting (pid: 51824)
+[2025-02-05 13:15:02 +0000] [42802] [ERROR] Worker (pid:51823) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 13:15:03 +0000] [52814] [INFO] Booting worker with pid: 52814
+[2025-02-05 13:15:05 +0000] [42802] [ERROR] Worker (pid:51824) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 13:15:05 +0000] [52816] [INFO] Booting worker with pid: 52816
+[2025-02-05 15:25:41 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:42803)
+[2025-02-05 15:25:41 +0000] [42803] [INFO] Worker exiting (pid: 42803)
+[2025-02-05 15:26:18 +0000] [42802] [ERROR] Worker (pid:42803) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 15:26:18 +0000] [57461] [INFO] Booting worker with pid: 57461
+[2025-02-05 15:28:09 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:52688)
+[2025-02-05 15:28:15 +0000] [52688] [INFO] Worker exiting (pid: 52688)
+[2025-02-05 15:28:48 +0000] [42802] [ERROR] Worker (pid:52688) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 15:28:48 +0000] [57505] [INFO] Booting worker with pid: 57505
+[2025-02-05 15:38:38 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:57461)
+[2025-02-05 15:41:35 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:57505)
+[2025-02-05 15:41:32 +0000] [57461] [INFO] Worker exiting (pid: 57461)
+[2025-02-05 15:42:50 +0000] [42802] [ERROR] Worker (pid:57461) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 15:42:50 +0000] [57505] [INFO] Worker exiting (pid: 57505)
+[2025-02-05 15:42:50 +0000] [42802] [ERROR] Worker (pid:57505) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 15:42:50 +0000] [59997] [INFO] Booting worker with pid: 59997
+[2025-02-05 15:42:50 +0000] [59998] [INFO] Booting worker with pid: 59998
+[2025-02-05 15:42:58 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:52814)
+[2025-02-05 15:42:59 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:52816)
+[2025-02-05 15:42:59 +0000] [52814] [INFO] Worker exiting (pid: 52814)
+[2025-02-05 15:42:59 +0000] [52816] [INFO] Worker exiting (pid: 52816)
+[2025-02-05 15:43:15 +0000] [42802] [ERROR] Worker (pid:52814) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 15:43:15 +0000] [42802] [ERROR] Worker (pid:52816) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 15:43:15 +0000] [60023] [INFO] Booting worker with pid: 60023
+[2025-02-05 15:43:15 +0000] [60024] [INFO] Booting worker with pid: 60024
+[2025-02-05 15:45:13 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:59997)
+[2025-02-05 15:46:03 +0000] [59997] [INFO] Worker exiting (pid: 59997)
+[2025-02-05 15:46:03 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:60023)
+[2025-02-05 15:46:03 +0000] [60023] [INFO] Worker exiting (pid: 60023)
+[2025-02-05 15:46:12 +0000] [42802] [ERROR] Worker (pid:59997) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 15:46:12 +0000] [60095] [INFO] Booting worker with pid: 60095
+[2025-02-05 15:46:14 +0000] [42802] [ERROR] Worker (pid:60023) exited with code 1
+[2025-02-05 15:46:14 +0000] [42802] [ERROR] Worker (pid:60023) exited with code 1.
+[2025-02-05 15:46:14 +0000] [60102] [INFO] Booting worker with pid: 60102
+[2025-02-05 15:51:45 +0000] [42802] [CRITICAL] WORKER TIMEOUT (pid:60024)
+[2025-02-05 15:51:47 +0000] [60024] [INFO] Worker exiting (pid: 60024)
+[2025-02-05 15:52:22 +0000] [42802] [ERROR] Worker (pid:60024) was sent SIGKILL! Perhaps out of memory?
+[2025-02-05 15:52:22 +0000] [60233] [INFO] Booting worker with pid: 60233
