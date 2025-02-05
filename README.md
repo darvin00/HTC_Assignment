@@ -43,3 +43,7 @@
 - A successful response (HTTP 200) indicates the application is deployed and functioning correctly.
 ## Screenshots:
 
+### OUTPUT:
+![image](https://github.com/user-attachments/assets/d4ca5107-b3dd-4abd-b661-b683af8fc5c4)
+![image](https://github.com/user-attachments/assets/9d3df980-827e-4067-9d48-f07d83f81ab1)
+
