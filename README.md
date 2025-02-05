@@ -34,6 +34,8 @@
 - **Monitor Results:** --> The results of the pipeline execution (success or failure) will be logged, and it can be check and the status will be in our CI/CD tool's interface.
 ### Webhook:
 ![image](https://github.com/user-attachments/assets/ea7b8cdc-2f77-40c2-89b5-ab2a333daf30)
+![image](https://github.com/user-attachments/assets/cca2d5fb-1c0c-4657-a757-63b28cb5ddb4)
+![image](https://github.com/user-attachments/assets/9ed2cf11-8ea5-4c8c-9f22-2a0cad9888b6)
 
 ## Access the Deployed Application:
 ### Live URL:
