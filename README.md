@@ -41,7 +41,7 @@
 - After deployment the application will be available at the following URL: http://54.149.140.148:8000
 - Verify the Deployment:To verify the deployment visit the /health endpoint of the application. --> http://54.149.140.148:8000/health
 - A successful response (HTTP 200) indicates the application is deployed and functioning correctly.
-## Screenshots:
+## Screenshots of successful execution:
 ![image](https://github.com/user-attachments/assets/9875742e-7473-45da-acee-b3fc1cd27a59)
 - to resolve this error:
 ![Screenshot 2025-02-05 210533](https://github.com/user-attachments/assets/6d70df68-ebdc-4123-9c74-c4bc60786525)
