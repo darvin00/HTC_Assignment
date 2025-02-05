@@ -36,7 +36,6 @@
 ![image](https://github.com/user-attachments/assets/ea7b8cdc-2f77-40c2-89b5-ab2a333daf30)
 ![image](https://github.com/user-attachments/assets/cca2d5fb-1c0c-4657-a757-63b28cb5ddb4)
 ![image](https://github.com/user-attachments/assets/9ed2cf11-8ea5-4c8c-9f22-2a0cad9888b6)
-
 ## Access the Deployed Application:
 ### Live URL:
 - After deployment the application will be available at the following URL: http://54.149.140.148:8000
