@@ -50,6 +50,16 @@
 - Manual Trigger
 ![image](https://github.com/user-attachments/assets/b7f8e57f-b9ba-4833-b68a-3e6ea18834fa)
 - Auto Trigger
+<img width="960" alt="Screenshot (317)" src="https://github.com/user-attachments/assets/9e8f2495-06a6-47a8-af5c-01956c9d2c84" />
+![image](https://github.com/user-attachments/assets/b3af8dc3-2f9c-497d-9eae-80deb075a12d)
+- Console Output
+![Screenshot (320)](https://github.com/user-attachments/assets/f7ad16bf-5a1e-4d00-8e9c-3b8a3b42d745)
+![Screenshot (321)](https://github.com/user-attachments/assets/c210e416-c00b-4409-8a2d-56c9cca4eadb)
+![Screenshot (322)](https://github.com/user-attachments/assets/7288d2cc-c6a8-49a3-a0fb-38f3bb3b6251)
+![Screenshot (323)](https://github.com/user-attachments/assets/95859b8a-efa3-4abf-a0c7-0d5743f5fda2)
+![image](https://github.com/user-attachments/assets/43a06fe7-e109-434c-9847-ced47ab3f401)
+![image](https://github.com/user-attachments/assets/67508bd9-bb7b-465c-b233-5760895fa925)
+![image](https://github.com/user-attachments/assets/082f10ca-7f8b-4e00-8058-9f4218be75ba)
 
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/bc06c2d4-5437-43e5-a0b3-24b97eb38f9d)
