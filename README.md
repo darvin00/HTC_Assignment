@@ -24,7 +24,7 @@
 --> git add .
 --> git commit -m "updated commit"
 --> git push origin main
-###Trigger the Pipeline:
+### Trigger the Pipeline:
 - **Code Push to Repository**--> When you push your changes to the repository git push origin main GitHub detects the change.
 - **Webhook Notification**--> The repository sends a webhook notification to the specified URL which in this case is your CI/CD server **(e.g., Jenkins)**.
 - The webhook contains information about the push event, such as the branch, commit details, etc.
