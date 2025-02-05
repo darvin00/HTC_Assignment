@@ -12,3 +12,16 @@
 - pytest: 7.1.2
 - requests: 2.28.1
 - Web Application: Running on port 8000
+### Steps to Set Up Locally:
+- Clone the repository: git clone https://github.com/darvin00/HTS_Assignment.git
+- Install dependencies: pip install -r requirements.txt
+- Run the application: python app.py 
+- Access the application locally at http://54.149.140.148:8000.
+- Test the /health endpoint by visiting http://54.149.140.148:8000/health.
+## CI/CD Pipeline Setup Instructions:
+- Commit and Push Changes and push to the GitHub repository triggering the CI/CD pipeline.
+![image](https://github.com/user-attachments/assets/9e61c268-a38b-4b4b-a3b6-56210f6cff73)
+--> git add .
+--> git commit -m "updated commit"
+--> git push origin main
+![image](https://github.com/user-attachments/assets/ea7b8cdc-2f77-40c2-89b5-ab2a333daf30)
