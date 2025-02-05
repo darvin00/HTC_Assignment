@@ -24,4 +24,21 @@
 --> git add .
 --> git commit -m "updated commit"
 --> git push origin main
+###Trigger the Pipeline:
+- **Code Push to Repository**--> When you push your changes to the repository git push origin main GitHub detects the change.
+- **Webhook Notification**--> The repository sends a webhook notification to the specified URL which in this case is your CI/CD server **(e.g., Jenkins)**.
+- The webhook contains information about the push event, such as the branch, commit details, etc.
+- **Webhook Handler on CI/CD Server**--> Jenkins is configured to listen for incoming webhooks
+- When it receives the webhook from GitHub it processes the event and triggers the corresponding pipeline job.
+- **Pipeline Execution:**--> The CI/CD server Jenkins executes the pipeline steps such as Clone Repository, List Files, Install Dependencies, Pull Docker Image, List Docker Images, Run Docker Image, Run Tests as defined in the Jenkins job configuration.
+- **Monitor Results:** --> The results of the pipeline execution (success or failure) will be logged, and it can be check and the status will be in our CI/CD tool's interface.
+### Webhook:
 ![image](https://github.com/user-attachments/assets/ea7b8cdc-2f77-40c2-89b5-ab2a333daf30)
+
+## Access the Deployed Application:
+### Live URL:
+- After deployment the application will be available at the following URL: http://54.149.140.148:8000
+- Verify the Deployment:To verify the deployment visit the /health endpoint of the application. --> http://54.149.140.148:8000/health
+- A successful response (HTTP 200) indicates the application is deployed and functioning correctly.
+## Screenshots:
+
