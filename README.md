@@ -63,7 +63,8 @@
 ![image](https://github.com/user-attachments/assets/082f10ca-7f8b-4e00-8058-9f4218be75ba)
 
 ### OUTPUT:
-<img width="960" alt="Screenshot (327)" src="https://github.com/user-attachments/assets/0b3c7169-b05f-4222-ae7e-f12c95eab6ec" />
+<img width="960" alt="Screenshot (327)" src="https://github.com/user-attachments/assets/0b3c7169-b05f-4222-ae7e-f12c95eab6ec"/>
+
 ![image](https://github.com/user-attachments/assets/bc06c2d4-5437-43e5-a0b3-24b97eb38f9d)
 ![image](https://github.com/user-attachments/assets/75156eb7-f38c-45e6-917e-2844ff1ec92b)
 
