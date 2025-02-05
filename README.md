@@ -42,6 +42,14 @@
 - Verify the Deployment:To verify the deployment visit the /health endpoint of the application. --> http://54.149.140.148:8000/health
 - A successful response (HTTP 200) indicates the application is deployed and functioning correctly.
 ## Screenshots:
+![image](https://github.com/user-attachments/assets/9875742e-7473-45da-acee-b3fc1cd27a59)
+- to resolve this error:
+![Screenshot 2025-02-05 210533](https://github.com/user-attachments/assets/6d70df68-ebdc-4123-9c74-c4bc60786525)
+![Screenshot 2025-02-05 210610](https://github.com/user-attachments/assets/585f1aa9-e2e8-4d1c-bc42-a889af5f3dc8)
+***************************************************************************************************************************************************************************************************************
+- Manual Trigger
+![image](https://github.com/user-attachments/assets/b7f8e57f-b9ba-4833-b68a-3e6ea18834fa)
+- Auto Trigger
 
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/d4ca5107-b3dd-4abd-b661-b683af8fc5c4)
